@@ -92,18 +92,17 @@
 		</dependency>
 		
 	</dependencies>
-	
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://172.31.18.29:8081/repository/ebay-bts-releases/</url>
+	      <name>Sidodat Releases Nexus Repository</name>
+	      <url> http://54.145.242.137:8081/repository/sidodat-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://100.24.52.91:4000/repository/ebay-bts-snapshot/</url>
+	      <name>Sidodat Snapshot Nexus Repository </name>
+	      <url>http://54.145.242.137:8081/repository/sidodat-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
