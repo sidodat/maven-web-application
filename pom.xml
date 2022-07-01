@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Sidodat Releases Nexus Repository</name>
-	      <url> http://54.145.242.137:8081/repository/sidodat-release/</url>
+	      <url> http://54.145.242.137:8081/repository/paypal-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Sidodat Snapshot Nexus Repository </name>
-	      <url>http://54.145.242.137:8081/repository/sidodat-snapshot/</url>
+	      <url>http://54.145.242.137:8081/repository/paypal-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
