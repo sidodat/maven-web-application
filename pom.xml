@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Paypal Releases Nexus Repository</name>
-	      <url> http://172.31.16.199:8081/repository/paypal-releases/</url>
+	      <url> http://54.227.127.253:8081/repository/paypal-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Paypal Snapshot Nexus Repository </name>
-	      <url>http://172.31.16.199:8081/repository/paypal-snapshots/</url>
+	      <url>http://54.227.127.253:8081/repository/paypal-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
