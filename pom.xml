@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Paypal Snapshot Nexus Repository </name>
-	      <url>http://52.71.247.80:8081/repository/gtbank-snapshots/
+	      <url>http://52.71.247.80:8081/repository/gtbank-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
