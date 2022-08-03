@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Paypal Snapshot Nexus Repository </name>
-	      <url>http://100.24.7.215:4000/content/repositories/sidodat-snapshot/</url>
+	      <url>http://54.89.160.150:4000/content/repositories/sidodat-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
